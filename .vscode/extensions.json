@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "octref.vetur",
+    "abusaidm.html-snippets"
+  ],
+  "unwantedRecommendations": [
+    "hookyqr.beautify",
+    "dbaeumer.jshint",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}
