@@ -127,17 +127,7 @@
           </q-item-section>
         </q-item>
 
-        <q-item class="q-pa-md">
-          <q-item-section>
-            <q-item-label class="text-grey" overline>HEALTH</q-item-label>
-            <q-item-label class="text-weight-bold">Single line item</q-item-label>
-            <q-item-label caption>Secondary line text. Lorem ipsum dolor sit amet, consectetur adipiscit elit.</q-item-label>
-          </q-item-section>
-
-          <q-item-section side top>
-            <q-item-label caption>5 min ago</q-item-label>
-          </q-item-section>
-        </q-item>
+       
 
         <q-item class="q-pa-md">
           <q-item-section>
@@ -150,17 +140,7 @@
             <q-item-label caption>5 min ago</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item class="q-pa-md">
-          <q-item-section>
-            <q-item-label class="text-grey" overline>HEALTH</q-item-label>
-            <q-item-label class="text-weight-bold">Single line item</q-item-label>
-            <q-item-label caption>Secondary line text. Lorem ipsum dolor sit amet, consectetur adipiscit elit.</q-item-label>
-          </q-item-section>
-
-          <q-item-section side top>
-            <q-item-label caption>5 min ago</q-item-label>
-          </q-item-section>
-        </q-item>
+        
       </q-list>
     </q-drawer>
 
